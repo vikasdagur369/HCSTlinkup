@@ -1,0 +1,23 @@
+[
+    {
+      "name": "amazon",
+      "path": "/companies/alumni.png",
+      "id": 1
+    },
+    {
+      "name": "atlassian",
+      "path": "/companies/gj.png",
+      "id": 2
+    },
+    {
+      "name": "google",
+      "path": "/companies/NAAC.png",
+      "id": 3
+    },
+    {
+      "name": "sharda",
+      "path": "/companies/sharda.png",
+      "id": 3
+    }
+  ]
+  
